@@ -1,0 +1,86 @@
+{
+    "banner_principal": [
+        {
+            "id": 123,
+            "banner_img_url": "https://i.ibb.co/LCnrwb0/banner1.png"
+        },
+        {
+            "id": 321,
+            "banner_img_url": "hhttps://i.ibb.co/6ZYYXvd/banner2.png"
+        }
+    ],
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Brasileira",
+            "img_url": "  https://i.ibb.co/BjDLyWy/brasileira.png"
+        },
+        {
+            "id": 2,
+            "nome": "Marmita",
+            "img_url": "https://i.ibb.co/8rS5n8L/marmita.png"
+        },
+        {
+            "id": 3,
+            "nome": "Lanches",
+            "img_url": "https://i.ibb.co/xDNLNfy/lanches.png"
+        },
+        {
+            "id": 4,
+            "nome": "Almoço",
+            "img_url": "https://i.ibb.co/8rS5n8L/marmita.png"
+        }
+    ],
+    "restaurantes": [
+        {
+            "id": 1,
+            "nome": "La Casona",
+            "nota": "4.3",
+            "categoria": "Restaurante",
+            "distancia": "2Km",
+            "valor_frete": "3,00",
+            "tempo_entrega": "20 a 30 min",
+            "url_img": "https://i.ibb.co/FDBXKqs/la-casona.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Author's Cusine",
+            "nota": "4.3",
+            "categoria": "Petiscaria",
+            "distancia": "8Km",
+            "valor_frete": "1,00",
+            "tempo_entrega": "5 a 15 min",
+            "url_img": "https://i.ibb.co/SJBxVXn/logotipo-do-restaurante-retro-23-2148463922.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "The Dinner café",
+            "nota": "4.3",
+            "categoria": "Café",
+            "distancia": "2Km",
+            "valor_frete": "3,00",
+            "tempo_entrega": "20 a 30 min",
+            "url_img": "https://i.ibb.co/r5njprF/dinner.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "elRetiro",
+            "nota": "4.3",
+            "categoria": "Restaurante",
+            "distancia": "12Km",
+            "valor_frete": "5,00",
+            "tempo_entrega": "10 a 30 min",
+            "url_img": "https://i.ibb.co/qmVkjB6/el-retiro.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Novo Sabor",
+            "nota": "3.3",
+            "categoria": "Restaurante",
+            "distancia": "6Km",
+            "valor_frete": "2,00",
+            "tempo_entrega": "30 a 50 min",
+            "url_img": "https://i.ibb.co/qj3LvQ1/restaurante.jpg"
+        }
+    ]
+}
