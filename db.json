@@ -6,14 +6,14 @@
         },
         {
             "id": 321,
-            "banner_img_url": "hhttps://i.ibb.co/6ZYYXvd/banner2.png"
+            "banner_img_url": "https://i.ibb.co/6ZYYXvd/banner2.png"
         }
     ],
     "categorias": [
         {
             "id": 1,
             "nome": "Brasileira",
-            "img_url": "  https://i.ibb.co/BjDLyWy/brasileira.png"
+            "img_url": "https://i.ibb.co/BjDLyWy/brasileira.png"
         },
         {
             "id": 2,
