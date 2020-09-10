@@ -13,9 +13,9 @@ export default function Home({ navigation }) {
       <StatusBar style="theme-dark" />
       <SafeAreaView>
         <View>
-          <Text>Pedir comida nunca foi tão fácil</Text>
+          <Text style={{ fontWeight: 'bold', fontSize: 18 }}>Pedir comida nunca foi tão fácil</Text>
           <Image source={banner} />
-          <Text>Permitir Localização</Text>
+          <Text style={{ fontWeight: 'bold', fontSize: 16 }}>Permitir Localização</Text>
           <Text>Para descobrir restaurantes que entregam em sua região</Text>
         </View>
         <ButtonContainer>
